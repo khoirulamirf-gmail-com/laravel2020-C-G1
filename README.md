@@ -3,4 +3,4 @@ laravel2020 class C Group 1
 
 SI Penjualan Buku
 
-Khoerul Amir Fajri, Eri Kusnadi, Muhammad Agus Andriansyah.
+Khoirul Amir Fajri, Eri Kusnadi, Muhammad Agus Andriansyah.
